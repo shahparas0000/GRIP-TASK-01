@@ -23,4 +23,4 @@ Open xampp server and start Apache and Mysql servers.
 Open Phpmyadmin and import the sql file in that.
 Open browser and type the URL localhost/projectname/index.php to open the website.
 
-Check the live website here - www.pnsweb.ml
+Check the live website here - https://shahparas0000.github.io/GRIP-TASK-01/
