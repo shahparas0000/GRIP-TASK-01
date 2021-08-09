@@ -98,7 +98,7 @@ while($rows = mysqli_fetch_assoc($query))
     <div class="follow">
       <h3 style="color: black; font-family: 'Baloo Bhai 2', cursive; font-size: 25px;">Follow Us</h3>
       <div class="social">
-        <a href="http://www.github.com">
+        <a href="https://github.com/shahparas0000/TSF-GRIPAUGUST2021/tree/master/task1">
           <i class="fa fa-github" aria-hidden="true"></i>
         </a>
       </div>
