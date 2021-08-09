@@ -102,7 +102,7 @@
       </div>
     </div>
     <p class="text-copy">
-      Copyright &copy; 2021 All rights reserved
+      Copyright &copy; 2021 All Rights Reserved.
     </p>
   </footer>
 <!-- Footer -->
