@@ -10,11 +10,11 @@ Direct transfer between existing users.
 FRONT END: HTML, CSS, Bootstrap
 
 # Flow:
-> Home Page 
-> Click on Donate Button 
-> Redirect to Payment Gateway 
-> Enter Details 
-> Complete Payment 
-> Receipt Sent to Email.
+1. Home Page 
+2. Click on Donate Button 
+3. Redirect to Payment Gateway 
+4. Enter Details 
+5. Complete Payment 
+6. Receipt Sent to Email.
 
 Check the live website here - http://pns-web-hosting.great-site.net/
