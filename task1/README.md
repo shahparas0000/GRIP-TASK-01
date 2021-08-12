@@ -14,9 +14,13 @@ BACK END: PHP
 DATABASE: MySQL
 
 # Flow:
-Home Page > View all Customers > Select and View one
-Customer > Transfer Money > Select customer to transfer to >
-View all Customers.
+> Home Page 
+> View all Customers 
+> Select and View one Customer 
+> Transfer Money 
+> Select Customer and Amount
+> Transfer Success
+> See Transaction History
 
 TO RUN PROJECT save the project in 'htdocs' folder in XAMPP. 
 Open xampp server and start Apache and Mysql servers.
